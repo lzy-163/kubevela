@@ -1,1 +1,1 @@
-BFP CI test input.
+Test PR for the historical slash command.
